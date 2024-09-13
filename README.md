@@ -3,7 +3,7 @@
 The objective is to extract a list of entities from the Italian Constitution PDF. The project was done by following these steps:
 
 ## Initial experiments
-Initial tests revealed that a simple text extraction from the PDF was insufficient. The resulting text was disorganized, with footnotes and headers interrupting the main content, making it difficult to comprehend. While I could find some of the entities in the text, it was obvious that some of them are lost in the chaos. Recognizing the truth behind the phrase "garbage in, garbage out," I decided to clean the text thoroughly before attempting to extract any meaningful information. This approach ensured a more accurate and reliable extraction process.
+Initial tests revealed that a simple text extraction from the PDF was insufficient. The resulting text was disorganized, with footnotes and headers interrupting the main content, making it difficult to comprehend. While I could find some of the entities in the text, it was obvious that it would make mistakes. Recognizing the truth behind the phrase "garbage in, garbage out," I decided to clean the text thoroughly before attempting to extract any meaningful information. This approach ensured a more accurate and reliable extraction process.
 
 ## PDF to Text Conversion
 Using [make_clean_pdf2txt.py](make_clean_pdf2txt.py), I extracted the content of each page, removed headers and footnotes, applied basic regular expressions for text cleaning, and saved the results to [Costituzione_ITALIANO_clean.txt](data/Costituzione_ITALIANO_clean.txt). The text is mostly clean, although some words were incorrectly split (e.g., "cattolica" might appear as "ca ttolica").
@@ -18,10 +18,10 @@ Further tests revealed that `GPT-4 mini` performed comparably to `Llama 3.1 8B`.
 With [make_cleaner_correct_split_words.py](make_cleaner_correct_split_words.py), I processed each "Art." section using OpenAI’s `GPT-4 mini` to correct split words, resulting in a near-perfect text version, saved as [Costituzione_ITALIANO_cleaner.txt](data/Costituzione_ITALIANO_cleaner.txt). The total cost was minimal, as expected.
 
 ## Entity Extraction with Regular Expressions
-I used [re_find_entities.py](re_find_entities.py) to extract entities using regular expressions, saving the results in [re_entities.json](data/re_entities.json). This method identified **211 entities**.
+I used [re_find_entities.py](re_find_entities.py) to extract entities using regular expressions, saving the results in [re_entities.json](data/re_entities.json). This method identified **212 entities**.
 
 ## Entity Extraction with Named Entity Recognition (NER)
-Using [ner_find_entities.py](ner_find_entities.py), I applied spaCy’s NER model to extract entities. The results were saved in [ner_entities.json](data/ner_entities.json). This approach, leveraging NLP techniques, was more reliable than regular expressions, identifying **234 entities** in total.
+Using [ner_find_entities.py](ner_find_entities.py), I applied spaCy’s NER model to extract entities. The results were saved in [ner_entities.json](data/ner_entities.json). This approach, leveraging NLP techniques, was more reliable than regular expressions, identifying **232 entities** in total.
 
 ## Bonus: Extracting Regulatory References
 ### Dirty PDF to Text Conversion
