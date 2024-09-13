@@ -1,24 +1,28 @@
 # Problem 3
 
-The goal is to extract a list of entities from the Italian Constitution PDF file. I organized the project into the following steps:
+The objective is to extract a list of entities from the Italian Constitution PDF. The project is organized into the following steps:
 
 ## PDF to Text Conversion
-Using [make_clean_pdf2txt.py](make_clean_pdf2txt.py), I extracted the content of each page, removed headers and footnotes, applied basic regular expressions for text cleaning, and saved the results to [Costituzione_ITALIANO_clean.txt](data/Costituzione_ITALIANO_clean.txt). The text is mostly clean, though some words are incorrectly split with a space. For instance, "cattolico" might appear as "ca ttolico."
+Using [make_clean_pdf2txt.py](make_clean_pdf2txt.py), I extracted the content of each page, removed headers and footnotes, applied basic regular expressions for text cleaning, and saved the results to [Costituzione_ITALIANO_clean.txt](data/Costituzione_ITALIANO_clean.txt). The text is mostly clean, although some words were incorrectly split (e.g., "cattolica" might appear as "ca ttolica").
 
 ## Correcting Split Words with LLM
-With [Llama_3_1_8B_correct_split_words.ipynb](Llama_3_1_8B_correct_split_words.ipynb), I tested `Meta Llama 3.1 8B` for correcting split words, but while it performed well, a single inference on a Colab T4 GPU took about 5 minutes. To speed up inference and considering the low cost of serverless inference APIs (a few cents for around 80,000 characters or 20,000 tokens based on OpenAI's approximately 4 character per token), I decided to use OpenAI's `GPT-4 mini`.
+Initial attempts using simpler models like GPT-2 did not yield the desired results. I then tested models that are efficient and suitable for the task.
 
-Using [make_cleaner_correct_split_words.py](make_cleaner_correct_split_words.py), I processed each "Art." section with OpenAI's `GPT-4 mini` to correct split words, producing a near-perfect version of the text. The cleaned output was saved to [Costituzione_ITALIANO_cleaner.txt](data/Costituzione_ITALIANO_cleaner.txt). The cost was a few cents as expected.
+Using [Llama_3_1_8B_correct_split_words.ipynb](Llama_3_1_8B_correct_split_words.ipynb), I evaluated the `Meta Llama 3.1 8B` model for correcting split words. Running the inference on a Colab T4 GPU, which lacked sufficient memory, required a meta device, leading to a few minutes of processing time per case. By comparison, using the Lamini API with the same model reduced the inference time to just a few seconds.
+
+Further tests revealed that `GPT-4 mini` performed comparably to `Llama 3.1 8B`. Given the low cost of serverless inference APIs (approximately a few cents for 80,000 characters or 20,000 tokens based on OpenAI's 4-character-per-token estimate), I opted for this model.
+
+With [make_cleaner_correct_split_words.py](make_cleaner_correct_split_words.py), I processed each "Art." section using OpenAI’s `GPT-4 mini` to correct split words, resulting in a near-perfect text version, saved as [Costituzione_ITALIANO_cleaner.txt](data/Costituzione_ITALIANO_cleaner.txt). The total cost was minimal, as expected.
 
 ## Entity Extraction with Regular Expressions
-I used [re_find_entities.py](re_find_entities.py) to identify entities using regular expressions in the text and saved them to [re_entities.json](data/re_entities.json). **211 entities** were found in total.
+I used [re_find_entities.py](re_find_entities.py) to extract entities using regular expressions, saving the results in [re_entities.json](data/re_entities.json). This method identified **211 entities**.
 
 ## Entity Extraction with Named Entity Recognition (NER)
-Using [ner_find_entities.py](ner_find_entities.py), I applied spaCy's NER model to extract entities, saving the results in [ner_entities.json](data/ner_entities.json). This method is more reliable than regular expressions, as it leverages NLP techniques for more accurate entity identification. Using this script, **234 entities** were found in total.
+Using [ner_find_entities.py](ner_find_entities.py), I applied spaCy’s NER model to extract entities. The results were saved in [ner_entities.json](data/ner_entities.json). This approach, leveraging NLP techniques, was more reliable than regular expressions, identifying **234 entities** in total.
 
 ## Bonus: Extracting Regulatory References
 ### Dirty PDF to Text Conversion
-Using [make_dirty_pdf2txt.py](make_dirty_pdf2txt.py), I converted the entire PDF—including footnotes—into text. I cleaned the resulting file by fixing words split by hyphens across lines and applying other minor corrections.
+With [make_dirty_pdf2txt.py](make_dirty_pdf2txt.py), I converted the entire PDF (including footnotes) into text, fixing words split by hyphens across lines and making other minor corrections.
 
 ### Extracting Regulatory References with Regular Expressions
-Finally, with [re_find_regulatory_references.py](re_find_regulatory_references.py), I identified regulatory references in the Italian Constitution using regular expressions and saved them to [regulatory_references.json](data/regulatory_references.json). **41 references** were found in total.
+Finally, I used [re_find_regulatory_references.py](re_find_regulatory_references.py) to identify regulatory references in the Italian Constitution through regular expressions, saving the results to [regulatory_references.json](data/regulatory_references.json). A total of **41 references** were found.
