@@ -1,7 +1,7 @@
 import json, re
 
 content = ''
-with open('Costituzione_ITALIANO_dirty.txt', 'r', encoding='utf-8') as f:
+with open('data/Costituzione_ITALIANO_dirty.txt', 'r', encoding='utf-8') as f:
     content = f.read()
 
 matches = []    
@@ -14,7 +14,7 @@ for match in re.finditer(pattern, content):
     }
     matches.append(entity)
 
-with open("regulatory_references.json", 'w', encoding='utf-8') as f_out:
+with open("data/regulatory_references.json", 'w', encoding='utf-8') as f_out:
     json.dump(matches, f_out, ensure_ascii=False, indent=4)
 
 print(f"Found {len(matches)} matches and saved!")

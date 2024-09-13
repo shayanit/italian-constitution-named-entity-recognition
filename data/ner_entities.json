@@ -1,1394 +1,1406 @@
 [
     {
         "iri": "senato_repubblica",
-        "label": "Senato della Repubblica  \nLa Costituzione italiana",
-        "span_start": 32,
-        "span_end": 82
+        "label": "VIGENTE SENATO DELLA",
+        "span_start": 688,
+        "span_end": 708
     },
     {
         "iri": "senato_repubblica",
-        "label": "Senato della Repubblica  \nLa Costituzione italiana",
-        "span_start": 32,
-        "span_end": 82
-    },
-    {
-        "iri": "senato_repubblica",
-        "label": "COSTITUZIONE ITALIANA TESTO VIGENTE SENATO DELLA",
-        "span_start": 675,
-        "span_end": 723
-    },
-    {
-        "iri": "senato_repubblica",
-        "label": "Senato  \nStampa",
-        "span_start": 1298,
-        "span_end": 1313
+        "label": "Senato\nStampa",
+        "span_start": 1309,
+        "span_end": 1322
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato",
-        "span_start": 1366,
-        "span_end": 1372
+        "span_start": 1374,
+        "span_end": 1380
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato",
-        "span_start": 1397,
-        "span_end": 1403
+        "span_start": 1403,
+        "span_end": 1409
     },
     {
         "iri": "senato_repubblica",
         "label": "Libreria del Senato",
-        "span_start": 1560,
-        "span_end": 1579
+        "span_start": 1565,
+        "span_end": 1584
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica 2",
-        "span_start": 1604,
-        "span_end": 1629
+        "span_start": 1607,
+        "span_end": 1632
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica 2",
-        "span_start": 1604,
-        "span_end": 1629
+        "span_start": 1607,
+        "span_end": 1632
     },
     {
         "iri": "senato_repubblica",
-        "label": "N. 1  \n\nSenato della Repubblica  \nCostituzione della Repubblica",
-        "span_start": 1805,
-        "span_end": 1868
+        "label": "N. 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSenato della Repubblica\nCostituzione",
+        "span_start": 1807,
+        "span_end": 1874
     },
     {
         "iri": "senato_repubblica",
-        "label": "N. 1  \n\nSenato della Repubblica  \nCostituzione della Repubblica",
-        "span_start": 1805,
-        "span_end": 1868
+        "label": "N. 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSenato della Repubblica\nCostituzione",
+        "span_start": 1807,
+        "span_end": 1874
     },
     {
         "iri": "parlamento",
-        "label": "TITOLO I  \nIl Parlamento",
-        "span_start": 2452,
-        "span_end": 2476
+        "label": "TITOLO I\nIl Parlamento  ",
+        "span_start": 2467,
+        "span_end": 2491
     },
     {
         "iri": "presidente_repubblica",
-        "label": "TITOLO II  \nIl Presidente della Repubblica",
-        "span_start": 2800,
-        "span_end": 2842
+        "label": "TITOLO II\nIl Presidente della Repubblica",
+        "span_start": 2816,
+        "span_end": 2856
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 2910,
+        "span_end": 2917
     },
     {
         "iri": "consiglio",
         "label": "Il Consiglio dei ministri",
-        "span_start": 3003,
-        "span_end": 3028
+        "span_start": 3015,
+        "span_end": 3040
     },
     {
         "iri": "parlamento",
         "label": "PARLAMENTO",
-        "span_start": 25593,
-        "span_end": 25603
+        "span_start": 25420,
+        "span_end": 25430
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 25642,
-        "span_end": 25652
+        "span_start": 25466,
+        "span_end": 25476
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 25670,
-        "span_end": 25689
+        "span_start": 25494,
+        "span_end": 25513
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 25670,
-        "span_end": 25689
+        "span_start": 25494,
+        "span_end": 25513
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica",
-        "span_start": 25696,
-        "span_end": 25719
+        "span_start": 25520,
+        "span_end": 25543
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica",
-        "span_start": 25696,
-        "span_end": 25719
+        "span_start": 25520,
+        "span_end": 25543
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 25724,
-        "span_end": 25734
+        "span_start": 25548,
+        "span_end": 25558
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 25853,
-        "span_end": 25872
+        "span_start": 25676,
+        "span_end": 25695
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 25853,
-        "span_end": 25872
+        "span_start": 25676,
+        "span_end": 25695
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica",
-        "span_start": 26590,
-        "span_end": 26613
+        "span_start": 26418,
+        "span_end": 26441
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica",
-        "span_start": 26590,
-        "span_end": 26613
+        "span_start": 26418,
+        "span_end": 26441
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 26802,
-        "span_end": 26809
+        "span_start": 26630,
+        "span_end": 26637
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 27425,
-        "span_end": 27452
+        "span_start": 27256,
+        "span_end": 27283
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 27457,
-        "span_end": 27484
+        "span_start": 27288,
+        "span_end": 27315
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 27690,
-        "span_end": 27717
+        "span_start": 27521,
+        "span_end": 27548
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 27785,
-        "span_end": 27804
+        "span_start": 27616,
+        "span_end": 27635
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 27785,
-        "span_end": 27804
+        "span_start": 27616,
+        "span_end": 27635
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica",
-        "span_start": 27810,
-        "span_end": 27833
+        "span_start": 27641,
+        "span_end": 27664
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica",
-        "span_start": 27810,
-        "span_end": 27833
+        "span_start": 27641,
+        "span_end": 27664
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 27885,
-        "span_end": 27891
+        "span_start": 27717,
+        "span_end": 27723
     },
     {
         "iri": "camera_deputati",
         "label": "Ciascuna Camera",
-        "span_start": 28330,
-        "span_end": 28345
+        "span_start": 28155,
+        "span_end": 28170
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente o del Presidente della Repubblica",
-        "span_start": 28411,
-        "span_end": 28455
+        "span_start": 28236,
+        "span_end": 28280
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 28537,
-        "span_end": 28543
+        "span_start": 28360,
+        "span_end": 28366
     },
     {
         "iri": "camera_deputati",
-        "label": "Ciascuna Camera",
-        "span_start": 28594,
-        "span_end": 28609
+        "label": "Camera",
+        "span_start": 28425,
+        "span_end": 28431
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 28694,
-        "span_end": 28704
+        "span_start": 28511,
+        "span_end": 28521
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 28793,
-        "span_end": 28812
+        "span_start": 28610,
+        "span_end": 28629
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 28793,
-        "span_end": 28812
-    },
-    {
-        "iri": "camera_deputati",
-        "label": "Ciascuna Camera",
-        "span_start": 28825,
-        "span_end": 28840
-    },
-    {
-        "iri": "parlamento",
-        "label": "Parlamento",
-        "span_start": 28984,
-        "span_end": 28994
+        "span_start": 28610,
+        "span_end": 28629
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 29093,
-        "span_end": 29099
+        "span_start": 28649,
+        "span_end": 28655
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 29106,
-        "span_end": 29116
+        "span_start": 28799,
+        "span_end": 28809
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 28906,
+        "span_end": 28912
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 28919,
+        "span_end": 28929
     },
     {
         "iri": "governo",
         "label": "Governo",
-        "span_start": 29315,
-        "span_end": 29322
+        "span_start": 29127,
+        "span_end": 29134
     },
     {
         "iri": "camera_deputati",
-        "label": "Ciascuna Camera",
-        "span_start": 29672,
-        "span_end": 29687
+        "label": "Ciascuna Camera giudica dei titoli di ammissione",
+        "span_start": 29476,
+        "span_end": 29524
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 29835,
-        "span_end": 29845
+        "span_start": 29637,
+        "span_end": 29647
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 29949,
-        "span_end": 29959
+        "span_start": 29752,
+        "span_end": 29762
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 30104,
-        "span_end": 30110
+        "span_start": 29907,
+        "span_end": 29913
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 30152,
-        "span_end": 30162
+        "span_start": 29955,
+        "span_end": 29965
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 30568,
-        "span_end": 30578
+        "span_start": 30373,
+        "span_end": 30383
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 30707,
-        "span_end": 30717
+        "span_start": 30513,
+        "span_end": 30523
+    },
+    {
+        "iri": "governo",
+        "label": "Governo1",
+        "span_start": 30741,
+        "span_end": 30749
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 31049,
+        "span_end": 31055
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 31138,
+        "span_end": 31144
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 31635,
+        "span_end": 31641
     },
     {
         "iri": "governo",
         "label": "Governo",
-        "span_start": 30936,
-        "span_end": 30943
+        "span_start": 31649,
+        "span_end": 31656
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 31247,
-        "span_end": 31253
+        "span_start": 31690,
+        "span_end": 31696
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 31336,
-        "span_end": 31342
+        "span_start": 31770,
+        "span_end": 31776
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 31840,
-        "span_end": 31846
-    },
-    {
-        "iri": "governo",
-        "label": "Governo",
-        "span_start": 31854,
-        "span_end": 31861
-    },
-    {
-        "iri": "camera_deputati",
-        "label": "Camera",
-        "span_start": 31895,
-        "span_end": 31901
-    },
-    {
-        "iri": "camera_deputati",
-        "label": "Camera",
-        "span_start": 31975,
-        "span_end": 31981
-    },
-    {
-        "iri": "camera_deputati",
-        "label": "Camera",
-        "span_start": 32227,
-        "span_end": 32233
+        "span_start": 32020,
+        "span_end": 32026
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 32496,
-        "span_end": 32523
+        "span_start": 32290,
+        "span_end": 32317
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 32917,
-        "span_end": 32944
+        "span_start": 32705,
+        "span_end": 32732
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 33582,
-        "span_end": 33601
+        "span_start": 33365,
+        "span_end": 33384
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 33582,
-        "span_end": 33601
+        "span_start": 33365,
+        "span_end": 33384
     },
     {
         "iri": "governo",
         "label": "Governo",
-        "span_start": 33926,
-        "span_end": 33933
+        "span_start": 33703,
+        "span_end": 33710
     },
     {
         "iri": "governo",
         "label": "Il Governo",
-        "span_start": 34057,
-        "span_end": 34067
+        "span_start": 33833,
+        "span_end": 33843
     },
     {
         "iri": "governo",
         "label": "Governo",
-        "span_start": 34225,
-        "span_end": 34232
+        "span_start": 34000,
+        "span_end": 34007
     },
     {
         "iri": "governo",
         "label": "Governo",
-        "span_start": 34778,
-        "span_end": 34785
+        "span_start": 34549,
+        "span_end": 34556
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 34932,
-        "span_end": 34938
+        "span_start": 34703,
+        "span_end": 34709
     },
     {
         "iri": "governo",
         "label": "Governo",
-        "span_start": 36046,
-        "span_end": 36053
+        "span_start": 35811,
+        "span_end": 35818
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 36498,
-        "span_end": 36504
+        "span_start": 36264,
+        "span_end": 36270
     },
     {
         "iri": "camera_deputati",
-        "label": "Ciascuna Camera",
-        "span_start": 36578,
-        "span_end": 36593
+        "label": "Camera",
+        "span_start": 36352,
+        "span_end": 36358
     },
     {
         "iri": "presidente_repubblica",
-        "label": "PRESIDENTE DELLA REPUBBLICA  \n",
-        "span_start": 36931,
-        "span_end": 36961
+        "label": "PRESIDENTE DELLA REPUBBLICA\n",
+        "span_start": 36690,
+        "span_end": 36718
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 36975,
-        "span_end": 37002
+        "span_start": 36730,
+        "span_end": 36757
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 37016,
-        "span_end": 37026
+        "span_start": 36772,
+        "span_end": 36782
     },
     {
         "iri": "regione",
         "label": "Regione eletti",
-        "span_start": 37110,
-        "span_end": 37124
+        "span_start": 36864,
+        "span_end": 36878
     },
     {
         "iri": "consiglio",
         "label": "Consiglio regionale",
-        "span_start": 37129,
-        "span_end": 37148
+        "span_start": 36883,
+        "span_end": 36902
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 37266,
-        "span_end": 37293
+        "span_start": 37018,
+        "span_end": 37045
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 37460,
-        "span_end": 37487
+        "span_start": 37212,
+        "span_end": 37239
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 37596,
-        "span_end": 37623
+        "span_start": 37345,
+        "span_end": 37372
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 37752,
-        "span_end": 37779
+        "span_start": 37498,
+        "span_end": 37525
     },
     {
         "iri": "camera_deputati",
         "label": "Presidente della Camera dei deputati",
-        "span_start": 37852,
-        "span_end": 37888
+        "span_start": 37597,
+        "span_end": 37633
     },
     {
         "iri": "camera_deputati",
         "label": "Presidente della Camera dei deputati",
-        "span_start": 37852,
-        "span_end": 37888
+        "span_start": 37597,
+        "span_end": 37633
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 37917,
-        "span_end": 37927
+        "span_start": 37662,
+        "span_end": 37672
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 37974,
-        "span_end": 38001
+        "span_start": 37720,
+        "span_end": 37747
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 38249,
-        "span_end": 38276
+        "span_start": 37990,
+        "span_end": 38017
     },
     {
         "iri": "senato_repubblica",
         "label": "Presidente del Senato",
-        "span_start": 38342,
-        "span_end": 38363
+        "span_start": 38083,
+        "span_end": 38104
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 38432,
-        "span_end": 38459
+        "span_start": 38171,
+        "span_end": 38198
     },
     {
         "iri": "camera_deputati",
         "label": "Presidente della Camera dei deputati",
-        "span_start": 38464,
-        "span_end": 38500
+        "span_start": 38203,
+        "span_end": 38239
     },
     {
         "iri": "camera_deputati",
         "label": "Presidente della Camera dei deputati",
-        "span_start": 38464,
-        "span_end": 38500
+        "span_start": 38203,
+        "span_end": 38239
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 38529,
-        "span_end": 38556
+        "span_start": 38269,
+        "span_end": 38296
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 38701,
-        "span_end": 38728
+        "span_start": 38439,
+        "span_end": 38466
     },
     {
         "iri": "governo",
         "label": "Governo",
-        "span_start": 38971,
-        "span_end": 38978
+        "span_start": 38702,
+        "span_end": 38709
     },
     {
         "iri": "consiglio",
         "label": "Consiglio supremo",
-        "span_start": 39386,
-        "span_end": 39403
+        "span_start": 39106,
+        "span_end": 39123
     },
     {
         "iri": "consiglio_superiore_magistratura",
-        "label": "Presiede il Consiglio superiore della magistratura",
-        "span_start": 39498,
-        "span_end": 39548
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 39228,
+        "span_end": 39266
     },
     {
         "iri": "consiglio",
-        "label": "Presiede il Consiglio superiore della magistratura",
-        "span_start": 39498,
-        "span_end": 39548
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 39228,
+        "span_end": 39266
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 39657,
-        "span_end": 39684
+        "span_start": 39367,
+        "span_end": 39394
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 39961,
-        "span_end": 39988
+        "span_start": 39664,
+        "span_end": 39691
     },
     {
         "iri": "consiglio",
         "label": "Presidente del Consiglio dei ministri",
-        "span_start": 40183,
-        "span_end": 40220
-    },
-    {
-        "iri": "parlamento",
-        "label": "Parlamento",
-        "span_start": 40452,
-        "span_end": 40462
+        "span_start": 39884,
+        "span_end": 39921
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 40537,
-        "span_end": 40564
+        "span_start": 39935,
+        "span_end": 39962
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 40692,
-        "span_end": 40702
+        "span_start": 40148,
+        "span_end": 40158
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 40234,
+        "span_end": 40261
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 40389,
+        "span_end": 40399
     },
     {
         "iri": "governo",
         "label": "TITOLO III\nIL GOVERNO",
-        "span_start": 40722,
-        "span_end": 40743
+        "span_start": 40419,
+        "span_end": 40440
     },
     {
         "iri": "consiglio",
         "label": "Consiglio dei ministri\n",
-        "span_start": 40759,
-        "span_end": 40782
+        "span_start": 40457,
+        "span_end": 40480
     },
     {
         "iri": "governo",
         "label": "Governo della Repubblica",
-        "span_start": 40796,
-        "span_end": 40820
+        "span_start": 40492,
+        "span_end": 40516
     },
     {
         "iri": "consiglio",
         "label": "Presidente del Consiglio",
-        "span_start": 40836,
-        "span_end": 40860
+        "span_start": 40532,
+        "span_end": 40556
     },
     {
         "iri": "consiglio",
         "label": "Consiglio dei ministri",
-        "span_start": 40906,
-        "span_end": 40928
+        "span_start": 40602,
+        "span_end": 40624
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 40935,
-        "span_end": 40962
+        "span_start": 40629,
+        "span_end": 40656
     },
     {
         "iri": "consiglio",
         "label": "Presidente del Consiglio",
-        "span_start": 40973,
-        "span_end": 40997
-    },
-    {
-        "iri": "consiglio",
-        "label": "Presidente del Consiglio",
-        "span_start": 41063,
-        "span_end": 41087
-    },
-    {
-        "iri": "presidente_repubblica",
-        "label": "Presidente della Repubblica",
-        "span_start": 41181,
-        "span_end": 41208
-    },
-    {
-        "iri": "camera_deputati",
-        "label": "Ciascuna Camera accorda",
-        "span_start": 41274,
-        "span_end": 41297
-    },
-    {
-        "iri": "governo",
-        "label": "Governo",
-        "span_start": 41420,
-        "span_end": 41427
-    },
-    {
-        "iri": "governo",
-        "label": "Governo",
-        "span_start": 41548,
-        "span_end": 41555
-    },
-    {
-        "iri": "camera_deputati",
-        "label": "Camera",
-        "span_start": 41677,
-        "span_end": 41683
-    },
-    {
-        "iri": "consiglio",
-        "label": "Presidente del Consiglio",
-        "span_start": 41781,
-        "span_end": 41805
-    },
-    {
-        "iri": "governo",
-        "label": "Governo",
-        "span_start": 41851,
-        "span_end": 41858
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio dei ministri",
-        "span_start": 42050,
-        "span_end": 42072
-    },
-    {
-        "iri": "consiglio",
-        "label": "Presidenza del Consiglio",
-        "span_start": 42165,
-        "span_end": 42189
+        "span_start": 40667,
+        "span_end": 40691
     },
     {
         "iri": "consiglio",
         "label": "Il Presidente del Consiglio",
-        "span_start": 42276,
-        "span_end": 42303
-    },
-    {
-        "iri": "senato_repubblica",
-        "label": "Senato della Repubblica",
-        "span_start": 42493,
-        "span_end": 42516
-    },
-    {
-        "iri": "senato_repubblica",
-        "label": "Senato della Repubblica",
-        "span_start": 42493,
-        "span_end": 42516
-    },
-    {
-        "iri": "camera_deputati",
-        "label": "Camera dei deputati",
-        "span_start": 42525,
-        "span_end": 42544
-    },
-    {
-        "iri": "camera_deputati",
-        "label": "Camera dei deputati",
-        "span_start": 42525,
-        "span_end": 42544
-    },
-    {
-        "iri": "parlamento",
-        "label": "Parlamento",
-        "span_start": 43315,
-        "span_end": 43325
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio nazionale dell’economia",
-        "span_start": 43674,
-        "span_end": 43707
-    },
-    {
-        "iri": "governo",
-        "label": "Governo",
-        "span_start": 43906,
-        "span_end": 43913
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio di Stato",
-        "span_start": 44169,
-        "span_end": 44187
-    },
-    {
-        "iri": "governo",
-        "label": "Governo",
-        "span_start": 44370,
-        "span_end": 44377
-    },
-    {
-        "iri": "governo",
-        "label": "Governo",
-        "span_start": 44760,
-        "span_end": 44767
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio di Stato",
-        "span_start": 45519,
-        "span_end": 45537
-    },
-    {
-        "iri": "consiglio_superiore_magistratura",
-        "label": "Consiglio superiore della magistratura",
-        "span_start": 46182,
-        "span_end": 46220
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio superiore della magistratura",
-        "span_start": 46182,
-        "span_end": 46220
+        "span_start": 40752,
+        "span_end": 40779
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 46238,
-        "span_end": 46265
-    },
-    {
-        "iri": "parlamento",
-        "label": "Parlamento",
-        "span_start": 46506,
-        "span_end": 46516
-    },
-    {
-        "iri": "consiglio",
-        "label": "Il Consiglio",
-        "span_start": 46639,
-        "span_end": 46651
-    },
-    {
-        "iri": "parlamento",
-        "label": "Parlamento",
-        "span_start": 46709,
-        "span_end": 46719
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio",
-        "span_start": 46743,
-        "span_end": 46752
-    },
-    {
-        "iri": "parlamento",
-        "label": "Parlamento",
-        "span_start": 46918,
-        "span_end": 46928
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio regionale",
-        "span_start": 46937,
-        "span_end": 46956
-    },
-    {
-        "iri": "consiglio_superiore_magistratura",
-        "label": "Consiglio superiore della magistratura",
-        "span_start": 46982,
-        "span_end": 47020
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio superiore della magistratura",
-        "span_start": 46982,
-        "span_end": 47020
-    },
-    {
-        "iri": "consiglio_superiore_magistratura",
-        "label": "Consiglio superiore della magistratura",
-        "span_start": 47434,
-        "span_end": 47472
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio superiore della magistratura",
-        "span_start": 47434,
-        "span_end": 47472
-    },
-    {
-        "iri": "consiglio_superiore_magistratura",
-        "label": "Consiglio superiore della magistratura",
-        "span_start": 47903,
-        "span_end": 47941
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio superiore della magistratura",
-        "span_start": 47903,
-        "span_end": 47941
-    },
-    {
-        "iri": "consiglio_superiore_magistratura",
-        "label": "Consiglio superiore della magistratura",
-        "span_start": 48732,
-        "span_end": 48770
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio superiore della magistratura",
-        "span_start": 48732,
-        "span_end": 48770
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio di Stato",
-        "span_start": 50751,
-        "span_end": 50769
-    },
-    {
-        "iri": "regione",
-        "label": "Regione Trentino-Alto Adige/Südtirol",
-        "span_start": 52198,
-        "span_end": 52234
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 52645,
-        "span_end": 52652
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 52854,
-        "span_end": 52861
-    },
-    {
-        "iri": "regione",
-        "label": "Statuto speciale della regione Friuli-Venezia Giulia",
-        "span_start": 53783,
-        "span_end": 53835
-    },
-    {
-        "iri": "regione",
-        "label": "Regione siciliana",
-        "span_start": 54020,
-        "span_end": 54037
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio regionale",
-        "span_start": 54390,
-        "span_end": 54409
-    },
-    {
-        "iri": "regione",
-        "label": "Modifiche allo Statuto speciale della regione Friuli-Venezia Giulia",
-        "span_start": 54492,
-        "span_end": 54559
-    },
-    {
-        "iri": "parlamento",
-        "label": "Parlamento europeo",
-        "span_start": 55960,
-        "span_end": 55978
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 59322,
-        "span_end": 59329
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 59477,
-        "span_end": 59484
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 62436,
-        "span_end": 62443
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 62575,
-        "span_end": 62582
+        "span_start": 40873,
+        "span_end": 40900
     },
     {
         "iri": "governo",
         "label": "Il Governo",
-        "span_start": 62880,
-        "span_end": 62890
+        "span_start": 40911,
+        "span_end": 40921
     },
     {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 63603,
-        "span_end": 63610
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio regionale",
-        "span_start": 63615,
-        "span_end": 63634
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio regionale esercita le",
-        "span_start": 63670,
-        "span_end": 63701
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 63738,
-        "span_end": 63745
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 63951,
-        "span_end": 63958
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 64125,
-        "span_end": 64132
+        "iri": "camera_deputati",
+        "label": "Camera accorda",
+        "span_start": 40970,
+        "span_end": 40984
     },
     {
         "iri": "governo",
-        "label": "Governo della Repubblica",
-        "span_start": 64168,
-        "span_end": 64192
+        "label": "Governo",
+        "span_start": 41104,
+        "span_end": 41111
     },
     {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 64408,
-        "span_end": 64415
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 41230,
+        "span_end": 41237
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 41356,
+        "span_end": 41362
     },
     {
         "iri": "consiglio",
-        "label": "Consiglio",
-        "span_start": 64593,
-        "span_end": 64602
+        "label": "Il Presidente del Consiglio",
+        "span_start": 41528,
+        "span_end": 41555
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 41601,
+        "span_end": 41608
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio dei ministri",
+        "span_start": 41799,
+        "span_end": 41821
+    },
+    {
+        "iri": "consiglio",
+        "label": "Presidenza del Consiglio",
+        "span_start": 41912,
+        "span_end": 41936
+    },
+    {
+        "iri": "consiglio",
+        "label": "Il Presidente del Consiglio",
+        "span_start": 42026,
+        "span_end": 42053
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Senato della Repubblica",
+        "span_start": 42244,
+        "span_end": 42267
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Senato della Repubblica",
+        "span_start": 42244,
+        "span_end": 42267
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei deputati",
+        "span_start": 42276,
+        "span_end": 42295
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei deputati",
+        "span_start": 42276,
+        "span_end": 42295
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 64653,
-        "span_end": 64663
+        "span_start": 43049,
+        "span_end": 43059
     },
     {
         "iri": "consiglio",
-        "label": "Consiglio",
-        "span_start": 64677,
-        "span_end": 64686
+        "label": "Consiglio nazionale dell’economia",
+        "span_start": 43403,
+        "span_end": 43436
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 43617,
+        "span_end": 43624
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio di Stato",
+        "span_start": 43875,
+        "span_end": 43893
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 44075,
+        "span_end": 44082
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 44465,
+        "span_end": 44472
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio di Stato",
+        "span_start": 45211,
+        "span_end": 45229
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 45869,
+        "span_end": 45907
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 45869,
+        "span_end": 45907
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 45925,
+        "span_end": 45952
     },
     {
         "iri": "parlamento",
-        "label": "Parlamento europeo",
-        "span_start": 64726,
-        "span_end": 64744
+        "label": "Parlamento",
+        "span_start": 46195,
+        "span_end": 46205
     },
     {
         "iri": "consiglio",
         "label": "Il Consiglio",
-        "span_start": 64746,
-        "span_end": 64758
+        "span_start": 46328,
+        "span_end": 46340
     },
     {
-        "iri": "regione",
-        "label": "Ciascuna Regione",
-        "span_start": 65185,
-        "span_end": 65201
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 46398,
+        "span_end": 46408
     },
     {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 65467,
-        "span_end": 65474
+        "iri": "consiglio",
+        "label": "Consiglio",
+        "span_start": 46433,
+        "span_end": 46442
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 46608,
+        "span_end": 46618
     },
     {
         "iri": "consiglio",
         "label": "Consiglio regionale",
-        "span_start": 65575,
-        "span_end": 65594
+        "span_start": 46627,
+        "span_end": 46646
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 46670,
+        "span_end": 46708
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 46670,
+        "span_end": 46708
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Su designazione del Consiglio superiore della magistratura",
+        "span_start": 47099,
+        "span_end": 47157
+    },
+    {
+        "iri": "consiglio",
+        "label": "Su designazione del Consiglio superiore della magistratura",
+        "span_start": 47099,
+        "span_end": 47157
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 47583,
+        "span_end": 47621
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 47583,
+        "span_end": 47621
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 48399,
+        "span_end": 48437
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 48399,
+        "span_end": 48437
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio di Stato",
+        "span_start": 50406,
+        "span_end": 50424
+    },
+    {
+        "iri": "regione",
+        "label": "Regione Trentino-Alto Adige/Südtirol",
+        "span_start": 51846,
+        "span_end": 51882
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 52295,
+        "span_end": 52302
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 52505,
+        "span_end": 52512
+    },
+    {
+        "iri": "regione",
+        "label": "Statuto speciale della regione",
+        "span_start": 53440,
+        "span_end": 53470
+    },
+    {
+        "iri": "regione",
+        "label": "Regione siciliana",
+        "span_start": 53676,
+        "span_end": 53693
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio regionale",
+        "span_start": 54046,
+        "span_end": 54065
+    },
+    {
+        "iri": "regione",
+        "label": "Statuto speciale della regione Friuli-Venezia Giulia",
+        "span_start": 54163,
+        "span_end": 54215
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento europeo",
+        "span_start": 55626,
+        "span_end": 55644
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 59070,
+        "span_end": 59077
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 59224,
+        "span_end": 59231
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 62193,
+        "span_end": 62200
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 62334,
+        "span_end": 62341
     },
     {
         "iri": "governo",
-        "label": "Commissario del Governo",
-        "span_start": 65807,
-        "span_end": 65830
+        "label": "Il Governo",
+        "span_start": 62642,
+        "span_end": 62652
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 63366,
+        "span_end": 63373
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio regionale",
+        "span_start": 63378,
+        "span_end": 63397
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio regionale esercita le",
+        "span_start": 63433,
+        "span_end": 63464
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 63501,
+        "span_end": 63508
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 63714,
+        "span_end": 63721
+    },
+    {
+        "iri": "regione",
+        "label": "Regione4",
+        "span_start": 63888,
+        "span_end": 63896
     },
     {
         "iri": "governo",
         "label": "Governo della Repubblica",
-        "span_start": 65835,
-        "span_end": 65859
+        "span_start": 63932,
+        "span_end": 63956
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 66173,
-        "span_end": 66180
+        "span_start": 64173,
+        "span_end": 64180
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio",
+        "span_start": 64358,
+        "span_end": 64367
+    },
+    {
+        "iri": "parlamento",
+        "label": "Camere del Parlamento",
+        "span_start": 64408,
+        "span_end": 64429
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio",
+        "span_start": 64443,
+        "span_end": 64452
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento europeo",
+        "span_start": 64492,
+        "span_end": 64510
+    },
+    {
+        "iri": "consiglio",
+        "label": "Il Consiglio",
+        "span_start": 64512,
+        "span_end": 64524
+    },
+    {
+        "iri": "regione",
+        "label": "Ciascuna Regione",
+        "span_start": 64952,
+        "span_end": 64968
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 65235,
+        "span_end": 65242
     },
     {
         "iri": "consiglio",
         "label": "Consiglio regionale",
-        "span_start": 66211,
+        "span_start": 65343,
+        "span_end": 65362
+    },
+    {
+        "iri": "governo",
+        "label": "Commissario del Governo",
+        "span_start": 65576,
+        "span_end": 65599
+    },
+    {
+        "iri": "governo",
+        "label": "Governo della Repubblica",
+        "span_start": 65604,
+        "span_end": 65628
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 65944,
+        "span_end": 65951
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio regionale",
+        "span_start": 65982,
+        "span_end": 66001
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 66118,
+        "span_end": 66125
+    },
+    {
+        "iri": "consiglio",
+        "label": "Consiglio delle autonomie locali",
+        "span_start": 66152,
+        "span_end": 66184
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 66223,
         "span_end": 66230
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 66346,
-        "span_end": 66353
-    },
-    {
-        "iri": "consiglio",
-        "label": "Consiglio delle autonomie locali",
-        "span_start": 66380,
-        "span_end": 66412
+        "span_start": 66296,
+        "span_end": 66303
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 66451,
-        "span_end": 66458
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 66523,
-        "span_end": 66530
-    },
-    {
-        "iri": "regione",
-        "label": "Regione",
-        "span_start": 66723,
-        "span_end": 66730
+        "span_start": 66493,
+        "span_end": 66500
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 66772,
-        "span_end": 66799
+        "span_start": 66542,
+        "span_end": 66569
     },
     {
         "iri": "consiglio",
         "label": "Consiglio regionale",
-        "span_start": 66834,
-        "span_end": 66853
+        "span_start": 66604,
+        "span_end": 66623
     },
     {
         "iri": "consiglio",
         "label": "Consiglio regionale",
-        "span_start": 67243,
-        "span_end": 67262
+        "span_start": 67015,
+        "span_end": 67034
     },
     {
         "iri": "consiglio",
         "label": "Consiglio",
-        "span_start": 67808,
-        "span_end": 67817
+        "span_start": 67572,
+        "span_end": 67581
     },
     {
         "iri": "consiglio",
         "label": "Consiglio",
-        "span_start": 67926,
-        "span_end": 67935
+        "span_start": 67690,
+        "span_end": 67699
     },
     {
         "iri": "governo",
         "label": "Il Governo",
-        "span_start": 67951,
-        "span_end": 67961
+        "span_start": 67715,
+        "span_end": 67725
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 68029,
-        "span_end": 68036
+        "span_start": 67793,
+        "span_end": 67800
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 68180,
-        "span_end": 68187
+        "span_start": 67945,
+        "span_end": 67952
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 68277,
-        "span_end": 68284
+        "span_start": 68043,
+        "span_end": 68050
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 69659,
-        "span_end": 69666
+        "span_start": 69390,
+        "span_end": 69397
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 69804,
-        "span_end": 69811
+        "span_start": 69535,
+        "span_end": 69542
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 69899,
-        "span_end": 69906
+        "span_start": 69630,
+        "span_end": 69637
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 69913,
-        "span_end": 69920
+        "span_start": 69642,
+        "span_end": 69649
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 70482,
-        "span_end": 70509
-    },
-    {
-        "iri": "presidente_repubblica",
-        "label": "Presidente della Repubblica",
-        "span_start": 70634,
-        "span_end": 70661
+        "span_start": 70362,
+        "span_end": 70389
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 70680,
-        "span_end": 70690
+        "span_start": 70408,
+        "span_end": 70418
     },
     {
         "iri": "parlamento",
         "label": "Parlamento",
-        "span_start": 71584,
-        "span_end": 71594
+        "span_start": 71309,
+        "span_end": 71319
     },
     {
         "iri": "consiglio",
         "label": "Consiglio\n\nregionale",
-        "span_start": 71602,
-        "span_end": 71622
+        "span_start": 71327,
+        "span_end": 71347
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 71752,
-        "span_end": 71779
+        "span_start": 71476,
+        "span_end": 71503
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "senatore3",
+        "span_start": 71655,
+        "span_end": 71664
     },
     {
         "iri": "parlamento",
         "label": "Parlamento compila",
-        "span_start": 71953,
-        "span_end": 71971
+        "span_start": 71673,
+        "span_end": 71691
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 73055,
-        "span_end": 73061
+        "span_start": 72763,
+        "span_end": 72769
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 73200,
-        "span_end": 73206
+        "span_start": 72908,
+        "span_end": 72914
     },
     {
         "iri": "camera_deputati",
         "label": "Camera",
-        "span_start": 73385,
-        "span_end": 73391
+        "span_start": 73092,
+        "span_end": 73098
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 73935,
-        "span_end": 73962
+        "span_start": 73644,
+        "span_end": 73671
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 74021,
-        "span_end": 74048
+        "span_start": 73731,
+        "span_end": 73758
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica",
-        "span_start": 74197,
-        "span_end": 74220
+        "span_start": 73909,
+        "span_end": 73932
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica",
-        "span_start": 74197,
-        "span_end": 74220
+        "span_start": 73909,
+        "span_end": 73932
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 74261,
-        "span_end": 74288
+        "span_start": 73973,
+        "span_end": 74000
     },
     {
         "iri": "consiglio",
         "label": "Consiglio dei ministri",
-        "span_start": 74417,
-        "span_end": 74439
+        "span_start": 74129,
+        "span_end": 74151
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato",
-        "span_start": 74500,
-        "span_end": 74506
+        "span_start": 74212,
+        "span_end": 74218
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 74634,
-        "span_end": 74653
+        "span_start": 74346,
+        "span_end": 74365
     },
     {
         "iri": "camera_deputati",
         "label": "Camera dei deputati",
-        "span_start": 74634,
-        "span_end": 74653
+        "span_start": 74346,
+        "span_end": 74365
     },
     {
         "iri": "presidente_repubblica",
         "label": "Presidente della Repubblica",
-        "span_start": 74872,
-        "span_end": 74899
+        "span_start": 74584,
+        "span_end": 74611
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato",
-        "span_start": 74924,
-        "span_end": 74930
+        "span_start": 74636,
+        "span_end": 74642
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Pagina 72\nAl diritto di essere nominati senatori",
+        "span_start": 74755,
+        "span_end": 74803
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato",
-        "span_start": 75215,
-        "span_end": 75221
+        "span_start": 75000,
+        "span_end": 75006
     },
     {
         "iri": "regione",
         "label": "Regione",
-        "span_start": 75251,
-        "span_end": 75258
+        "span_start": 75036,
+        "span_end": 75043
     },
     {
         "iri": "consiglio",
         "label": "Consiglio di Stato",
-        "span_start": 75736,
-        "span_end": 75754
+        "span_start": 75522,
+        "span_end": 75540
     },
     {
         "iri": "regione",
         "label": "X.\nAlla Regione",
-        "span_start": 77387,
-        "span_end": 77402
+        "span_start": 77279,
+        "span_end": 77294
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica",
-        "span_start": 79602,
-        "span_end": 79625
+        "span_start": 79544,
+        "span_end": 79567
     },
     {
         "iri": "senato_repubblica",
         "label": "Senato della Repubblica",
-        "span_start": 79602,
-        "span_end": 79625
+        "span_start": 79544,
+        "span_end": 79567
     },
     {
         "iri": "governo",
         "label": "Governo",
-        "span_start": 80076,
-        "span_end": 80083
+        "span_start": 80019,
+        "span_end": 80026
     },
     {
         "iri": "governo",
         "label": "Governo interrogazioni",
-        "span_start": 80210,
-        "span_end": 80232
+        "span_start": 80153,
+        "span_end": 80175
     },
     {
         "iri": "governo",
         "label": "Governo",
-        "span_start": 80410,
-        "span_end": 80417
+        "span_start": 80427,
+        "span_end": 80434
     },
     {
         "iri": "senato_repubblica",
         "label": "VIGENTE SENATO DELLA",
-        "span_start": 82205,
-        "span_end": 82225
+        "span_start": 82371,
+        "span_end": 82391
     }
 ]

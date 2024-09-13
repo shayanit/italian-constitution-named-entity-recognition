@@ -1,7 +1,7 @@
 import PyPDF2, re
 
 # Open the PDF file in binary mode
-with open('Costituzione_ITALIANO.pdf', 'rb') as pdf_file:
+with open('data/Costituzione_ITALIANO.pdf', 'rb') as pdf_file:
     reader = PyPDF2.PdfReader(pdf_file)
     content = ''
     for page in reader.pages:
@@ -17,6 +17,6 @@ with open('Costituzione_ITALIANO.pdf', 'rb') as pdf_file:
     content = content.replace("\n", " ")
 
 # Save the extracted text to a .txt file
-with open('Costituzione_ITALIANO_dirty.txt', 'w', encoding='utf-8') as txt_file:
+with open('data/Costituzione_ITALIANO_dirty.txt', 'w', encoding='utf-8') as txt_file:
     txt_file.write(content)
 

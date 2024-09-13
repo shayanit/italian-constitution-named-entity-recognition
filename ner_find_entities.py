@@ -47,7 +47,7 @@ def main(input_file, output_file):
     with open(output_file, 'w', encoding='utf-8') as f_out:
         json.dump(entities, f_out, ensure_ascii=False, indent=4)
 
-    print(f"Entities have been successfully extracted using spaCy and saved to {output_file}")
+    print(f"{len(entities)} entities have been successfully extracted using spaCy and saved to {output_file}")
 
 # Call the main function
-main('Costituzione_ITALIANO_clean.txt', 'ner_entities.json')
+main('data/Costituzione_ITALIANO_clean.txt', 'data/ner_entities.json')
