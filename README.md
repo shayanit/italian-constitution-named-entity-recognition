@@ -1,6 +1,9 @@
 # Problem 3
 
-The objective is to extract a list of entities from the Italian Constitution PDF. The project is organized into the following steps:
+The objective is to extract a list of entities from the Italian Constitution PDF. The project was done by following these steps:
+
+## Initial experiments
+Initial tests revealed that a simple text extraction from the PDF was insufficient. The resulting text was disorganized, with footnotes and headers interrupting the main content, making it difficult to comprehend. While I could find some of the entities in the text, it was obvious that some of them are lost in the chaos. Recognizing the truth behind the phrase "garbage in, garbage out," I decided to clean the text thoroughly before attempting to extract any meaningful information. This approach ensured a more accurate and reliable extraction process.
 
 ## PDF to Text Conversion
 Using [make_clean_pdf2txt.py](make_clean_pdf2txt.py), I extracted the content of each page, removed headers and footnotes, applied basic regular expressions for text cleaning, and saved the results to [Costituzione_ITALIANO_clean.txt](data/Costituzione_ITALIANO_clean.txt). The text is mostly clean, although some words were incorrectly split (e.g., "cattolica" might appear as "ca ttolica").
